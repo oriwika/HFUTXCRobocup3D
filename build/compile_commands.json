@@ -1,0 +1,252 @@
+[
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/main.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/main.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/main.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/behaviors/behavior.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/behaviors/behavior.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/behaviors/behavior.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/behaviors/naobehavior.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/behaviors/naobehavior.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/behaviors/naobehavior.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/behaviors/checkfall.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/behaviors/checkfall.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/behaviors/checkfall.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/behaviors/kicking.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/behaviors/kicking.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/behaviors/kicking.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/behaviors/strategy.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/behaviors/strategy.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/behaviors/strategy.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/behaviors/pkbehaviors.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/behaviors/pkbehaviors.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/behaviors/pkbehaviors.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/behaviors/gazebobehavior.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/behaviors/gazebobehavior.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/behaviors/gazebobehavior.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/behaviors/simplesoccer.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/behaviors/simplesoccer.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/behaviors/simplesoccer.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/servercomm/primitives.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/servercomm/primitives.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/servercomm/primitives.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/parser/parser.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/parser/parser.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/parser/parser.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/math/hctmatrix.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/math/hctmatrix.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/math/hctmatrix.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/math/vecposition.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/math/vecposition.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/math/vecposition.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/math/Geometry.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/math/Geometry.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/math/Geometry.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/worldmodel/worldmodel.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/worldmodel/worldmodel.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/worldmodel/worldmodel.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/bodymodel/bodymodel.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/bodymodel/bodymodel.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/bodymodel/bodymodel.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/particlefilter/PFLocalization.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/particlefilter/PFLocalization.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/particlefilter/PFLocalization.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/particlefilter/Particle.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/particlefilter/Particle.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/particlefilter/Particle.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/skills/skill.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/skills/skill.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/skills/skill.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/skills/curve3d.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/skills/curve3d.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/skills/curve3d.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/ikfast/ikfast.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/ikfast/ikfast.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/ikfast/ikfast.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/headers/headers.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/headers/headers.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/headers/headers.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/audio/audio.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/audio/audio.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/audio/audio.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/rvdraw/rvdraw.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/rvdraw/rvdraw.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/rvdraw/rvdraw.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/MotionCore.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/MotionCore.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/MotionCore.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/Module.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/Module.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/Module.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/common/NMatrix.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/common/NMatrix.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/common/NMatrix.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/math/MVTools.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/math/MVTools.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/math/MVTools.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/math/RotationMatrix.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/math/RotationMatrix.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/math/RotationMatrix.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/memory/Lock.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/Lock.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/Lock.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/memory/Logger.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/Logger.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/Logger.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/memory/Memory.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/Memory.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/Memory.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/memory/MemoryBlock.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/MemoryBlock.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/MemoryBlock.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/memory/PrivateMemory.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/PrivateMemory.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/PrivateMemory.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/memory/SharedMemory.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/SharedMemory.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/memory/SharedMemory.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/motion/MotionModule.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/motion/MotionModule.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/motion/MotionModule.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/motion/UTWalkEngine.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/motion/UTWalkEngine.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/motion/UTWalkEngine.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/sensor/SensorModule.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/sensor/SensorModule.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/sensor/SensorModule.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/sensor/InertialFilter.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/sensor/InertialFilter.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/sensor/InertialFilter.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/kinematics/InverseKinematics.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/kinematics/InverseKinematics.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/kinematics/InverseKinematics.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/kinematics/ForwardKinematics.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/kinematics/ForwardKinematics.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/kinematics/ForwardKinematics.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/kinematics/KinematicsModule.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/kinematics/KinematicsModule.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/kinematics/KinematicsModule.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/math/Geometry.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/math/Geometry.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/math/Geometry.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/common/PIDController.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/common/PIDController.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/common/PIDController.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/utwalk/motion/WalkEngineParameters.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/utwalk/motion/WalkEngineParameters.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/utwalk/motion/WalkEngineParameters.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/kalman/BallKF.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/kalman/BallKF.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/kalman/BallKF.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/kalman/PlayerKF.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/kalman/PlayerKF.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/kalman/PlayerKF.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/kalman/OrigKalmanFilter.cpp.o -c /home/lhy/Desktop/utaustinvilla3d-master/kalman/OrigKalmanFilter.cpp",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/kalman/OrigKalmanFilter.cpp"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/optimization/optimizationbehaviors.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/optimization/optimizationbehaviors.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/optimization/optimizationbehaviors.cc"
+},
+{
+  "directory": "/home/lhy/Desktop/utaustinvilla3d-master/build",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -I/home/lhy/Desktop/utaustinvilla3d-master/utwalk -I/usr/include/simspark  -Wall -Wextra -Wno-unused -g   -o CMakeFiles/agentspark.dir/stats/recordstatsbehavior.cc.o -c /home/lhy/Desktop/utaustinvilla3d-master/stats/recordstatsbehavior.cc",
+  "file": "/home/lhy/Desktop/utaustinvilla3d-master/stats/recordstatsbehavior.cc"
+}
+]
